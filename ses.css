@@ -1,0 +1,43 @@
+body{
+  
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+
+}
+.Apply{
+    padding: 5px 10px 5px 10px;
+    background-color: white;
+    border:none;
+    font-size: 35px;
+    font-family: 'Orbitron', sans-serif;
+    color: #82a5ca;
+    font-weight: bold;
+}
+.join{
+    font-size:80px;
+    margin-top: 20px;
+    color: #82a5ca;
+    text-shadow: 0px 0px 4px black;
+}
+.explo{
+    border-bottom: 7px solid white;
+}
+#image{
+    display: block;
+    margin-top:30px;
+    margin-left: auto;
+    margin-right:auto;
+    width:200px;
+    height:75px;
+}
+#hero{
+    background-image: url("galaxy.webp");
+    background-size: cover;
+    padding:20px 0 100px 0;
+}
+.tandc{
+    color:#82a5ca;
+    font-size: 45px;
+}
